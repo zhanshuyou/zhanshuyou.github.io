@@ -1,4 +1,4 @@
-var l=`<h1>\u524D\u7AEF\u52A8\u753B\u4E3A\u4EC0\u4E48\u63A8\u8350\u4F7F\u7528 CSS \u66FF\u4EE3 JS \u65B9\u6848\uFF1F</h1>
+var n=`<h1>\u524D\u7AEF\u52A8\u753B\u4E3A\u4EC0\u4E48\u63A8\u8350\u4F7F\u7528 CSS \u66FF\u4EE3 JS \u65B9\u6848\uFF1F</h1>
 <h2>\u4E00. CSS \u52A8\u753B\u7684\u4F18\u70B9</h2>
 <ol>
 <li>\u4E0D\u5360\u7528 JS \u4E3B\u7EBF\u7A0B</li>
@@ -49,4 +49,4 @@ will-change: inherit
 <ol>
 <li><a href="https://aotu.io/notes/2017/04/11/GPU/index.html">GPU\u52A0\u901F\u662F\u4EC0\u4E48</a></li>
 <li><a href="https://yq.aliyun.com/articles/606307">\u7528CSS\u5F00\u542F\u786C\u4EF6\u52A0\u901F\u6765\u63D0\u9AD8\u7F51\u7AD9\u6027\u80FD</a></li>
-</ol>`;export{l as default};
+</ol>`;export{n as default};
