@@ -1,4 +1,4 @@
-var e=`<h1>Textarea Auto Size</h1>
+const e=`<h1>Textarea Auto Size</h1>
 <pre><code class="language-html">&#x3C;textarea placeholder="Type, paste, cut text here...">Input Something...&#x3C;/textarea>
 </code></pre>
 <pre><code class="language-ts">const textareas = document.getElementsByTagName('textarea');
